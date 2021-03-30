@@ -6,7 +6,7 @@ The Project is named as [ChatApp-Nodejs](https://node-krish-chatapp.herokuapp.co
  * Create chat rooms
  * Users an join chat rooms
  * Users can send links
- * User can send their location
+ * Users can send their location
 
 
 ### Built With
