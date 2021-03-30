@@ -3,7 +3,7 @@
 The Project is named as [ChatApp-Nodejs](https://node-krish-chatapp.herokuapp.com/). This is a project created where users can create rooms and chat.
 
 ### Features of Project
- * Craete chat rooms
+ * Create chat rooms
  * Users an join chat rooms
  * Users can send links
  * User can send their location
